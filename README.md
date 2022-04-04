@@ -4,3 +4,4 @@
 Constructing E/R diagram (Entity set and Multiplicity).
 
 # Assignment 2:
+SQL and relational algebra are the focus of this assignment. A database will be created in SQL to host data from Reddit.
